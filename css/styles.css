@@ -1,0 +1,113 @@
+.pull-left{
+    float: left;
+}
+
+.input-kpr {
+    display: block;
+    outline: none;
+    -webkit-appearance: none;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    background-color: #fff;
+    line-height: 40px;
+    vertical-align: middle;
+    height: 43px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 8px;
+    margin-bottom: 15px;
+}
+
+.input-container{
+    width: 100%;
+    display: block;
+}
+
+.input-group{
+    /*width: 50%;*/
+    /*display: inline-block;*/
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.input-group p{
+    line-height: 0px;
+    margin-bottom: 14px;
+}
+
+.input-group:first{
+    margin-left: 0px;
+}
+
+.text-green{
+    color: green;
+}
+
+.btn{
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 8px 14px;
+    font-size: 18px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-kpr{
+    background-color: green;
+    color: white;
+}
+
+.btn-kpr:hover{
+    opacity: 0.9;
+}
+
+.kpr-installment{
+    margin-top: 0px;
+    font-size: 20px;
+    color: green;
+    text-decoration: bold;
+}
+
+#nadaft-kpr-simulation-form{
+    max-width: 400px;
+    padding: 30px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+.show-installment{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.show-installment p{
+    margin-bottom: 0px;
+}
+
+.show-installment h6{
+    margin-top: 0px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+/*@media only screen and (max-width: 767px) {
+    #nadaft-kpr-simulation-form{
+        width: 100%;
+    }
+}*/

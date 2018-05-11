@@ -11,7 +11,7 @@ Nadaft KPR Simulation adalah plugin WordPress untuk menampilkan simulasi KPR pad
 
 ## Demo
 
-Untuk live demo silahkan kunjungi [di sini](https://kanpa.co.id)
+Untuk live demo silahkan kunjungi [di sini](https://kanpa.co.id/simulasi-kpr/)
 
 ## FAQ and more
 

@@ -12,8 +12,8 @@ Author URI: https://github.com/nhnajibullah
 wp_register_script( 'kpr_js_script', plugins_url( '/js/app.js', __FILE__ ) );
 wp_register_script( 'accounting_js_script', plugins_url( '/js/accounting.js', __FILE__ ) );
 // wp_register_script( 'imask', "https://unpkg.com/imask");
-wp_register_script( 'jquery_inputmask_bundle', "https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js");
-wp_register_script( 'jquery_inputmask_binding', "https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/bindings/inputmask.binding.min.js");
+wp_register_script( 'jquery_inputmask_bundle', plugins_url("js/jquery.inputmask.bundle.min.js", __FILE__));
+wp_register_script( 'jquery_inputmask_binding', plugins_url("js/inputmask.binding.min.js", __FILE__));
 wp_register_style( 'kpr_simulation_css', plugins_url( '/css/styles.css', __FILE__ ) );
 
 function nks_load_form()

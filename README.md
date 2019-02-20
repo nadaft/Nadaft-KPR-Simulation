@@ -1,8 +1,8 @@
-![alt_text](https://i.ibb.co/T8KF4jq/Screenshot-618.png)
-
 # Nadaft KPR Simulation
 
 Nadaft KPR Simulation adalah plugin WordPress untuk menampilkan simulasi KPR pada website berbasis WordPress.
+
+![alt_text](https://i.ibb.co/T8KF4jq/Screenshot-618.png)
 
 ## Cara Install
 

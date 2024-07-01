@@ -3,7 +3,7 @@
 Plugin Name: Nadaft KPR Simulation
 Plugin URI: https://github.com/Nadaft/Nadaft-KPR-Simulation
 Description: Plugin formulir simulasi KPR untuk Wordpress
-Version: 1.1.2
+Version: 1.1.4
 Author: Nur Hasan Najibullah
 Author URI: https://github.com/nhnajibullah
 */

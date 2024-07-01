@@ -18,7 +18,7 @@ wp_register_style('kpr_simulation_css', plugins_url('/css/styles.css', __FILE__ 
 
 function nks_load_form()
 {
-    include( plugin_dir_path( __FILE__ ) . 'views/form.php');
+    include_once( plugin_dir_path( __FILE__ ) . 'views/form.php');
 }
 
 wp_enqueue_script('jquery');
